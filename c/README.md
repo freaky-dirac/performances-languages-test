@@ -10,3 +10,11 @@ $ gcc test.c test.h
 ```
 $ time ./a.out
 ```
+
+
+## output example
+```
+real	0m0.013s
+user	0m0.001s
+sys	0m0.002s
+```	
